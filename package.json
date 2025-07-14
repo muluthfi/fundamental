@@ -1,0 +1,11 @@
+{
+  "name": "fundamental-react",
+  "version": "1.0.0",
+  "description": "grinding phase 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luthfi",
+  "license": "ISC"
+}
